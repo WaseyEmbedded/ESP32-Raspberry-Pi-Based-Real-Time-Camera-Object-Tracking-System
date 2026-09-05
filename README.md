@@ -219,9 +219,9 @@ The external servo power supply and ESP32 must share a **common ground** so that
 ```text
 camera-tracking-system/
 │
-├── radar_gui.py
-├── esp.ino
-├── block_diagram.png
+├── RWS.py
+├── esp_1_.ino
+├── Block_diagram.png
 └── README.md
 ```
 

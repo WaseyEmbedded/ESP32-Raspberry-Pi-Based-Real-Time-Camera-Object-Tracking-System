@@ -77,9 +77,9 @@ The ESP32 acts as a dedicated **servo controller**, receiving the angle commands
 
 The complete hardware and software architecture is shown below:
 
-Block diagram.png
+## 📊 System Block Diagram
 
-> **Note:** Add the generated block diagram image to the root of this repository and name it `block_diagram.png`.
+![System Block Diagram](Block_diagram.png)
 
 ## 🔄 Working Principle
 

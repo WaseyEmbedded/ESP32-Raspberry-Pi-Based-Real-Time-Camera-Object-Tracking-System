@@ -164,6 +164,14 @@ The ESP32 receives the PAN and TILT values and generates the corresponding **har
 
 The ESP32 does not perform image processing or target detection. Its primary role is to provide reliable servo PWM control.
 
+<h2>🎥 Project Demonstration</h2>
+
+<p>
+  <a href="project_demo.mp4">
+    ▶️ Watch the Camera Tracking System Demo
+  </a>
+</p>
+
 ## ⚡ Power Architecture
 
 The servo motors are powered using an **external regulated 5V power supply**.

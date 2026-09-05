@@ -223,6 +223,7 @@ camera-tracking-system/
 ├── esp_1_.ino
 ├── Block_diagram.png
 └── README.md
+└── demo_video.mp4
 ```
 
 ## 🎮 Raspberry Pi Controls
